@@ -1,3 +1,3 @@
 # first-repo
 My first repo
-Author- Parmod Budhiraja
+Author- Parmod Budhiraja cool
